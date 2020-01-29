@@ -1,0 +1,43 @@
+*{
+    margin:  0px;
+}
+
+
+.ig
+{
+    width: 70%;
+    height: 1000px;
+    background-color: deepskyblue;
+    /*margin-left: auto ;
+    margin-right: auto;*/
+    /*position: absolute;
+    left: 0px;*/
+    margin: 100px auto;
+}
+
+
+
+.p1{
+    
+    line-height: normal;
+    max-width: 250px;
+}
+
+
+.p2
+{   width:300px;
+    line-height: 200%;
+
+}
+
+.p3
+{   width:300px;
+    line-height: 50%;
+}
+
+
+
+
+p{
+    cursor: cell;
+}

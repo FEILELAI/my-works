@@ -1,0 +1,22 @@
+p
+{/*
+    border-style: dotted;
+    border-top-style: double;
+    border-bottom-width:  10px;
+    border-bottom-color: red;*/
+
+    border-radius:  10px;
+    width: 100px;
+    height: 50px;
+    background-color: darkkhaki;
+    text-align: center;
+    border: 2px solid blue;
+}
+
+.cssid
+{   background-color: darkslategrey;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    box-shadow: 10px 10px 5px #ffccff;
+}
